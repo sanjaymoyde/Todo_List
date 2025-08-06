@@ -28,4 +28,16 @@ Check out the live app on Vercel:
 ---
 
 ## 📁 Project Structure
+public/
+src/
+├── components/
+│ ├── TodoForm.jsx
+│ └── TodoItem.jsx
+├── context/
+│ └── TodoContext.js
+├── App.jsx
+└── main.jsx
+tailwind.config.js
+package.json
+README.md
 
